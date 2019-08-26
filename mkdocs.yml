@@ -1,8 +1,8 @@
-site_name: My Docs
+site_name: 随升缘公司管理制度
 
 theme:
   name: 'material'
 
 nav:
-    - Home: index.md
-    - First: first.md
+    - 主页: index.md
+    - 第一章-xxx: firstChapter.md
